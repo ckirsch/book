@@ -238,7 +238,7 @@ The machine and its code is universal just like organic life and its DNA. This i
 Let us personalize your copy of selfie! Load the source code `selfie.c` into your editor and scroll all the way down to the end of the file. Then, right before the line `exit_code = selfie(0);` insert the following code but with my name replaced by yours:
 
 ```c
-printf("%s: This is Christoph Kirsch's Selfie!\n", selfie_name);
+printf("%s: This Selfie belongs to Christoph Kirsch!\n", selfie_name);
 ```
 
 From now on, selfie prints your name before doing anything else. Try it:
